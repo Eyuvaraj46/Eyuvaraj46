@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Python
 - 💬 Ask me about PY and DS
-- 📫 How to reach me: yuvarajelangovan333gmail.com
+- 📫 How to reach me: yuvarajelangovan333@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
 
