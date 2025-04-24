@@ -2,8 +2,8 @@
 ## Hi there 👋
 
 
-- 🌱 I’m currently learning Python
-- 💬 Ask me about PY and DS
+- 🌱 I’m currently learning Python, Go
+- 💬 Ask me about PY and Go
 - 📫 How to reach me: yuvarajelangovan333@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
